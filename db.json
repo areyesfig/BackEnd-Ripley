@@ -1,0 +1,16 @@
+{
+  "usuarios": [
+    {
+      "rut": "12.222.222-2",
+      "nombre": "Juan Reyes",
+      "cuenta": "22222",
+      "saldo": 49880
+    },
+    {
+      "rut": "18.888.888-8",
+      "nombre": "Fernando Alonso",
+      "cuenta": "11111",
+      "saldo": 250120
+    }
+  ]
+}
